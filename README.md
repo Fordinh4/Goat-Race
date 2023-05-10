@@ -1,6 +1,6 @@
 # Goat Race Game
 ## Description
-This is my second project about a multiplayer board game that can be played by as little as two and up to five players. 
+- This is my second project about a multiplayer board game that can be played by as little as two and up to five players. 
 
 ## What is the objective of the game?
 ![image](https://user-images.githubusercontent.com/132872972/236985258-cbb42db4-59f6-4d40-ac90-8255b09de03a.png)
